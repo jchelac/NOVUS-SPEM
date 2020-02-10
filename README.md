@@ -4,7 +4,8 @@
 
 # Estado del arte 
 <p align="justify"> En Ecuador el número de personas con discapacidad llegan a 1636800 de ellas el 46,62% tienen discapacidad fisica, sus  principales causas son por enfermedades adquiridas y problemas al nacer. Al menos quince mil habitantes requieren una protesis, los valores varian entre $7000 a $10000 estas protesis suelen ser  estéticas y poco funcionales, lo que ocasionan problemas psicológicos y sociales
-<img src="ESTADISTICA DE PERSONAS CON DISCAPACIDAD.jpg">
+<img src="DOC/ESTADISTICA DE PERSONAS CON DISCAPACIDAD.jpg">
+
 </p>
 
 
