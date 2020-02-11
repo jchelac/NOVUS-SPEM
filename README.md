@@ -15,7 +15,7 @@
 # Diseño del prototipo
 <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/8.PNG"></p>
 </p>
-<p align="justify"> El proceso de construcción de la prótesis se realiza a medida del paciente según las necesidades funcionales. El prototipo base de este estudio es realizado por la comunidad de Thingiverse del proyecto Flexy Hand 2, sobre éste se realiza un diseño optimizado, para las necesidades de nuestro paciente. Se elabora un diseño de prótesis en 3D capaz de alojar componentes en Arduino que permita emitir una señal de geoposicionamiento y obtener un reporte de ubicaciones de la prótesis ajustada al paciente, con ello es posible un monitoreo contínuo.</p>
+<p align="justify"> En el proceso de construcción de la prótesis se realizó a medida del paciente según las necesidades funcionales. El prototipo base de este estudio es realizado por la comunidad de Thingiverse del proyecto Flexy Hand 2, sobre éste se realiza un diseño optimizado, para las necesidades de nuestro paciente. Se elabora un diseño de prótesis en 3D capaz de alojar componentes en Arduino que permita emitir una señal de geolocalización en tiempo real y permite obtener un reporte de ubicaciones del paciente, con ello es posible un monitoreo contínuo.</p>
 
 # Ensamblaje
 # Interfaz del usuario
