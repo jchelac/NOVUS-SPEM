@@ -18,4 +18,13 @@
 <p align="justify"> En el proceso de construcción de la prótesis se realizó a medida del paciente según las necesidades funcionales. El prototipo base de este estudio es realizado por la comunidad de Thingiverse del proyecto Flexy Hand 2, sobre éste se realiza un diseño optimizado, para las necesidades de nuestro paciente. Se elabora un diseño de prótesis en 3D capaz de alojar componentes en Arduino que permita emitir una señal de geolocalización en tiempo real y permite obtener un reporte de ubicaciones del paciente, con ello es posible un monitoreo contínuo.</p>
 
 # Ensamblaje
+<p align="justify">
+Para el ensamble de este prototipo vamos a utilizar la unión de los falanges proximal y distal que fueron creados con ninjaflex dichas uniones servirán para conectar la falange proximal, Falange media y la falange distal del índice. También hemos utilizado cordones no elásticos que son pasadas por el orificio,simulan los tendones de la mano, estos son los que nos permitirán cerrar los dedos para coger objetos. Para la unión de la palma con el antebrazo hemos utilizado tornillos, como también el acople del brazo.
+  </p>
+  </p>
+  
+  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/ENSAMBLE.PNG"></p>
+  
+  
+  
 # Interfaz del usuario
