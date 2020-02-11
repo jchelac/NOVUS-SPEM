@@ -35,12 +35,4 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/APLICATIVO.jpg"></p>
  
 # prueba
-<form action="enviar.asp" method="post" target="_blank">
-<label for="nombre">Nombre:</label><input type="text" id="nombre"/>
-<input type="submit" value="Enviar"/>
-</form>
 
-<br><br>
-<hr>
-Art&iacute;culo disponible en: <a href="http://lineadecodigo.com/2007/09/04/resultado-de-un-formulario-en-ventana-nueva/">http://lineadecodigo.com/2007/09/04/resultado-de-un-formulario-en-ventana-nueva/</a><br/>
-<a href="http://lineadecodigo.com" title="Linea de Codigo">lineadecodigo.com</a>
