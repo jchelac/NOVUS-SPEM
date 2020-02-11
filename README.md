@@ -14,15 +14,8 @@
 
 # Diseño del prototipo
 <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/8.PNG"></p>
-<p align="justify"> 
-
-Se elabora un diseño de prótesis en 3D capaz de alojar componentes en Arduino que permita emitir una señal de geoposicionamiento y obtener un reporte de ubicaciones de la prótesis ajustada al paciente, con ello es posible un monitoreo contínuo.
-El antebrazo cumple con la curvatura de 90 grados para que el paciente no pierda la dirección de la fuerza y no ejerza mayor presión sobre la misma (ver Fig. 9a). La mano protésica utiliza los falanges proximal y distal creados con ninjaflex y cordones no elásticos son pasados por orificios para similar los tendones de la mano y con ello permitir cerrar los dedos para coger objetos (ver Fig. 9b), se muestra el producto de la impresión en 3D a continuación.
-
-
-
-
 </p>
+<p align="justify"> El proceso de construcción de la prótesis se realiza a medida del paciente según las necesidades funcionales.El prototipo base de este estudio es realizado por la comunidad de Thingiverse del proyecto Flexy Hand 2, sobre éste se realiza un diseño optimizado, para las necesidades de nuestro paciente.Se elabora un diseño de prótesis en 3D capaz de alojar componentes en Arduino que permita emitir una señal de geoposicionamiento y obtener un reporte de ubicaciones de la prótesis ajustada al paciente, con ello es posible un monitoreo contínuo.</p>
 
 # Ensamblaje
 # Interfaz del usuario
