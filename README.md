@@ -9,7 +9,7 @@ AQUI TUTORIAL</a> </p>
 </p>
 
 # Diseño del prototipo
-
+<p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/1final.PNG"></p>
 
 
 # Ensamblaje
