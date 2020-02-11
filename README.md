@@ -34,6 +34,6 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   </p>
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/APLICATIVO.jpg"></p>
  
-  <p> <a target="_blank" href="http://www.lineadecodigo.com"></a> </p>
+  <p> <a target="_blank" href="http://www.lineadecodigo.com"></a> prueba</p>
  
 
