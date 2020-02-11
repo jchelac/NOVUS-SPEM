@@ -28,8 +28,7 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   
   
 # Aplicativo
-<p align="justify"> La aplicación móvil desarrollada en Kodular para dispositivos Android, permite registrar a una persona por dispositivo GPS disponible, mediante el International Mobile Equipment Identity (IMEI), asociado a un correo electrónico. Para seguridad de la prótesis y del paciente, el aplicativo realiza la grabación de la información, en tiempo real y registra el recorrido
-
+<p align="justify"> La aplicación móvil fue desarrollada en Kodular para dispositivos Android, permite registrar a una persona por dispositivo GPS disponible, mediante el International Mobile Equipment Identity (IMEI), asociado a un correo electrónico. Para seguridad de la prótesis y del paciente, el aplicativo realiza la grabación de la información, en tiempo real y registra el recorrido
   </p>
   </p>
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/APLICATIVO.jpg"></p>
