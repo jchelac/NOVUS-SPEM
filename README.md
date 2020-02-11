@@ -35,4 +35,4 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/APLICATIVO.jpg"></p>
  
 
-
+<a href="https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/abrir-enlace-en-una-nueva-ventana.html" target="_blank">New Tab</a>
