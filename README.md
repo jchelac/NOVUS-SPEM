@@ -37,7 +37,12 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
 <p align="justify">Los resultados determinan que el 63% de los encuestados, tiene experiencia con aplicaciones móviles con geolocalización. Se observa que los partici-pantes han utilizado el GPS de su dispositivo móvil y el 37% mediante este trabajo experimenta su utilidad al probar el aplicativo Novus Spem.
   </p>
   <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/1.PNG"></p>
+  
+  <p align="justify">El 84% de los participantes creen que las nuevas tecnologías contribuyen a mejorar la calidad de vida de las personas con objetos construidos en impresos en 3D, se destaca que en el medio no es común encontrar objetos construidos en dichas impresoras, el trabajo presenta a los participantes la prótesis terminada.
+  </p>
+  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/2.PNG"></p>
 
+ 
 # PRODUCTO FINAL 
 
 
