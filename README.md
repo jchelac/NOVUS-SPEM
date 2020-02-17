@@ -50,7 +50,7 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   </p>
   
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/4.PNG"></p>
-    <p align="justify">Según las estadisticas 
+    <p align="justify">Según las estadisticas el 86% de las personas encuestadas aprobaron el contenido visual de nuestro aplicativo NOVUS SPEM
   </p>
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/7.jpg"></p>
  
