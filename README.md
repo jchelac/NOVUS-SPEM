@@ -46,6 +46,10 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   </p>
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/3.PNG"></p>
  
+   <p align="justify">Estos valores confirman con los resultados obtenidos en la pregunta si recomendarían Novus Spem a instituciones que colaboran con personas con discapacidades físicas para su implementación y uso con el 95% de su aprobación.
+  </p>
+ <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/4.PNG"></p>
+ 
 # PRODUCTO FINAL 
 
 
