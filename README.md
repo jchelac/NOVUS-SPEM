@@ -58,10 +58,9 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
 <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/github-final.png"></p>
 <p align="justify"> 
 Desarrollado por:</p>
+<p> Joe Llerena - jllerena@ups.edu.ec </p>
 <p>
     Melissa Barberán V. - mbarberasn@est.ups.edu.ec</p>
 <p>
     Jessica Chela - jchelac@est.ups.edu.ec </p>
-
-Tutor:
-    Joe Llerena - jllerena@ups.edu.ec 
+   
