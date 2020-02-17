@@ -41,7 +41,10 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   <p align="justify">El 84% de los participantes creen que las nuevas tecnologías contribuyen a mejorar la calidad de vida de las personas con objetos construidos en impresos en 3D, se destaca que en el medio no es común encontrar objetos construidos en dichas impresoras, el trabajo presenta a los participantes la prótesis terminada.
   </p>
   <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/2.PNG"></p>
-
+  
+  <p align="justify">Es notable que adquirir prótesis en nuestro medio no es muy frecuente debido a la tecnología en el proceso de diseño y elaboración, los resultados muestran que el 94% estarían dispuestos a la adquisión de una prótesis 3D y la aplicación presentada en este trabajo.
+  </p>
+ <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/3.PNG"></p>
  
 # PRODUCTO FINAL 
 
