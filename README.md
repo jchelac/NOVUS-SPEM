@@ -33,7 +33,11 @@ Para el ensamble de este prototipo vamos a utilizar la unión de los falanges pr
   </p>
   </p>
  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/APLICATIVO.jpg"></p>
- 
+
+<p align="justify">Los resultados determinan que el 63% de los encuestados, tiene experiencia con aplicaciones móviles con geolocalización. Se observa que los partici-pantes han utilizado el GPS de su dispositivo móvil y el 37% mediante este trabajo experimenta su utilidad al probar el aplicativo Novus Spem.
+  </p>
+  <p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/1.PNG"></p>
+
 # PRODUCTO FINAL 
 
 
